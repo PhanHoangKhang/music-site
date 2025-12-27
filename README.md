@@ -1,6 +1,6 @@
 ## Clone repository:
 ```bash
-git clone https://github.com/PhanHoangKhang/UniProof.git
+git clone https://github.com/PhanHoangKhang/music-site.git
 ```
 ## Run Front-end
 ```bash
